@@ -1,7 +1,7 @@
 {
   "name": "reacttest",
   "version": "1.0.0",
-  "description": "SOme basic ReactJS",
+  "description": "Some basic ReactJS",
   "main": "index.js",
   "scripts": {
     "start": "npm run build",
